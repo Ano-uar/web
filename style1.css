@@ -1,0 +1,23 @@
+.login-form {
+    width: 400px;
+    margin: auto;
+    margin-top: 35px;
+}
+h4{
+    margin-left: 47%;
+    padding-top: 80px;
+}
+#butn{
+    width: 400px;
+    border: 1px solid rgb(104, 104, 104);
+}
+.container{
+    width: 1000px;
+    padding: auto;
+}
+.collapse{
+    padding-left: 700px;
+}
+#nav{
+    font-size: 20px;
+}

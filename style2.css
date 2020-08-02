@@ -1,0 +1,38 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+
+h4{
+    
+    margin-left: 47%;
+    padding-top: 80px;
+    padding-bottom: 22px;
+}
+.register-form{
+    width: 500px;
+    margin: auto;
+}
+.form-check{
+    margin-top: 13px;
+    margin-left: 34.5%;
+}
+.register{
+    margin-left: 34.5%;
+    margin-top: 10px;
+
+}
+.form-group{
+    margin-top: 18px;
+}
+#butn{
+    width: 500px;
+    border: 1px solid rgb(78, 78, 78);
+}
+.container{
+    width: 1000px;
+    padding: auto;
+}
+.collapse{
+    padding-left: 700px;
+}
+#nav{
+    font-size: 20px;
+}
